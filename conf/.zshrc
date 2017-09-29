@@ -7,8 +7,6 @@ plugins=(git aws docker pip python common-aliases)
 source $ZSH/oh-my-zsh.sh
 export CLICOLOR=1
 export EDITOR=emacs
-export WORKON_HOME=$HOME/.virtualenvs
-source /usr/local/bin/virtualenvwrapper.sh
 
 # Fix numeric keypad                                                                                                                                                                                                                                                                                                                                                        
 # 0 . Enter                                                                                                                                                                                                                                                                                                                                                                 
